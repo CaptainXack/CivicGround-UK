@@ -1,5 +1,69 @@
 {
-  "generated": null,
-  "note": "No online monitoring run has been completed. Enable the optional workflow and review any source changes manually.",
-  "sources": []
+  "generated": "2026-11-27T17:26:35.073801+00:00",
+  "note": "Page-text comparison only; amendments, commencement, judicial developments and false positives require human review.",
+  "sources": [
+    {
+      "name": "PACE",
+      "url": "https://www.legislation.gov.uk/ukpga/1984/60/contents",
+      "baseline": "6beb03e9d9f9d8830076002614155759593e4656907b438f767007091e534c5d",
+      "hash": "6beb03e9d9f9d8830076002614155759593e4656907b438f767007091e534c5d",
+      "status": "Baseline captured; no legal review performed"
+    },
+    {
+      "name": "Code A",
+      "url": "https://www.gov.uk/government/publications/pace-code-a-december-2023/pace-code-a-2023-accessible",
+      "baseline": "4aeabd3bb4c0687dc2fbf9e608c3ce0eee6391958fd6a42569b226a66d1167ae",
+      "hash": "4aeabd3bb4c0687dc2fbf9e608c3ce0eee6391958fd6a42569b226a66d1167ae",
+      "status": "Baseline captured; no legal review performed"
+    },
+    {
+      "name": "Code C",
+      "url": "https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible",
+      "baseline": "1565f9f3f7173edd0f8b99d7affc866555f00521e07702003a90041b3dbae528",
+      "hash": "1565f9f3f7173edd0f8b99d7affc866555f00521e07702003a90041b3dbae528",
+      "status": "Baseline captured; no legal review performed"
+    },
+    {
+      "name": "Police Reform Act s.50",
+      "url": "https://www.legislation.gov.uk/ukpga/2002/30/section/50",
+      "baseline": "ef95c4094d2f45907a0505d70c2823e116f3fb6162435d80d8f3eae883ec4d6f",
+      "hash": "ef95c4094d2f45907a0505d70c2823e116f3fb6162435d80d8f3eae883ec4d6f",
+      "status": "Baseline captured; no legal review performed"
+    },
+    {
+      "name": "Dispersal powers",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/12/section/35",
+      "baseline": "8f1c73addf68571bbd1cb77b49119d9d308d96bcac5dcf1e133c96b78a06bb64",
+      "hash": "8f1c73addf68571bbd1cb77b49119d9d308d96bcac5dcf1e133c96b78a06bb64",
+      "status": "Baseline captured; no legal review performed"
+    },
+    {
+      "name": "Terrorism Act s.43",
+      "url": "https://www.legislation.gov.uk/ukpga/2000/11/section/43",
+      "baseline": "a7425cbae585fe3102b0d2c538991bf9ba76ffa9bca86b967a6a406696b21d0f",
+      "hash": "a7425cbae585fe3102b0d2c538991bf9ba76ffa9bca86b967a6a406696b21d0f",
+      "status": "Baseline captured; no legal review performed"
+    },
+    {
+      "name": "Crime and Policing Act 2026",
+      "url": "https://www.legislation.gov.uk/ukpga/2026/20/contents",
+      "baseline": "0926c9a261fcfbab3692e2dd303f31c716e27bba92a5957aabd28533629c7457",
+      "hash": "0926c9a261fcfbab3692e2dd303f31c716e27bba92a5957aabd28533629c7457",
+      "status": "Baseline captured; no legal review performed"
+    },
+    {
+      "name": "PACE codes index",
+      "url": "https://www.gov.uk/guidance/police-and-criminal-evidence-act-1984-pace-codes-of-practice",
+      "baseline": "67ded3b6ac1954197f3a97ec6e130225501fa7747859a847943b47b01ba8bf33",
+      "hash": "67ded3b6ac1954197f3a97ec6e130225501fa7747859a847943b47b01ba8bf33",
+      "status": "Baseline captured; no legal review performed"
+    },
+    {
+      "name": "IOPC reviews",
+      "url": "https://www.policeconduct.gov.uk/complaints/reviews-and-appeals",
+      "baseline": "215416cf5f6c3a8ba89776f77bbc683c80b65b4ea432e1a78d88e41592f6a030",
+      "hash": "215416cf5f6c3a8ba89776f77bbc683c80b65b4ea432e1a78d88e41592f6a030",
+      "status": "Baseline captured; no legal review performed"
+    }
+  ]
 }
